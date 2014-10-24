@@ -13,3 +13,7 @@ create a new data set for only mean and standard deviation related features
 I subset the new data set by the 6 activities and calculate the average of 
 each variable for each activity, and then merge back all the result to one
 tidy data set.
+
+output file is df.txt
+
+new code book file is selected_features.txt
